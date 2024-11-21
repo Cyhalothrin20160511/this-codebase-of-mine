@@ -1,0 +1,12 @@
+{
+    "word": "Schloss",
+    "language": "German",
+    "alternative_forms": " Schloß (pre-1996 orthography)",
+    "etymology": " From Middle High German slōz, from Old High German sloz, ablaut to the verb schließen. Cognate with Dutch slot (“lock”) and English slot.\n ",
+    "pronunciation": " IPA(key): /ʃlɔs/\n Audio(file)",
+    "noun": " Schloss n (strong, genitive Schlosses, plural Schlösser, diminutive Schlösschen n or Schlösslein n)\n  lock\n hinter Schloss und Riegel ― in prison, under lock and key\n castle (château, palace, not fortified)",
+    "declension": " \n Declension of Schloss [neuter, strong]\n \n \n \n \n \n singular\n \n plural\n \n \n \n \n indef.\n \n def.\n \n noun\n \n def.\n \n noun\n \n \n nominative\n \n ein\n \n das\n \n Schloss\n \n die\n \n Schlösser\n \n \n genitive\n \n eines\n \n des\n \n Schlosses\n \n der\n \n Schlösser\n \n \n dative\n \n einem\n \n dem\n \n Schloss, Schlosse1\n \n den\n \n Schlössern\n \n \n accusative\n \n ein\n \n das\n \n Schloss\n \n die\n \n Schlösser\n \n \n 1Now rare, see notes.\n \n \n ",
+    "hyponyms": " lock BügelschlossFahrradschlossSicherheitsschlossTürschlossVorhängeschlossZahlenschlossZündschlossZylinderschloss  gun mechanism LuntenschlossPerkussionsschlossRadschlossSteinschloss  castle BarockschlossJagdschlossKönigsschlossLuftschlossLustschlossMärchenschlossMittelalterschlossRenaissanceschlossResidenzschlossRokokoschlossSommerschlossSpukschlossStadtschlossWasserschloss ",
+    "derived_terms": " SchlösschenSchlösslein ",
+    "related_terms": " SchlosskircheSchlossparkSchlossschraube  Schlosser, Schlüssel, schließen, Schluss, Verschluss"
+}

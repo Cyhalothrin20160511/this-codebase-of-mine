@@ -1,0 +1,8 @@
+Hello World!
+
+This is a mail sent with Python!
+
+Subscribe To NeuralNine!
+
+Kind regards!
+NeuralNine

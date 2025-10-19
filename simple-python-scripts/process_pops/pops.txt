@@ -1,0 +1,65 @@
+aristocrats = {
+    culture = chinese
+    religion = confucian
+    size = 10700
+}
+
+clergymen = {
+    culture = chinese
+    religion = confucian
+    size = 5400
+}
+
+artisans = {
+    culture = chinese
+    religion = confucian
+    size = 29000
+}
+
+soldiers = {
+    culture = chinese
+    religion = confucian
+    size = 2900
+}
+
+farmers = {
+    culture = chinese
+    religion = confucian
+    size = 490500
+}
+
+aristocrats = {
+    culture = chinese
+    religion = confucian
+    size = 9500
+}
+
+clergymen = {
+    culture = chinese
+    religion = confucian
+    size = 4850
+}
+
+artisans = {
+    culture = chinese
+    religion = confucian
+    size = 25050
+}
+
+soldiers = {
+    culture = chinese
+    religion = confucian
+    size = 3825
+}
+
+farmers = {
+    culture = chinese
+    religion = confucian
+    size = 387775
+}
+
+slaves = {
+    culture = chinese
+    religion = confucian
+    size = 60000
+}
